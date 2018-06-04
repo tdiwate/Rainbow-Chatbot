@@ -1,5 +1,5 @@
 {
-  "name": "rainbow-chatbot",
+  "name": "rainbow-chatbot2",
   "version": "1.40.0",
   "description": "Rainbow ChatBot library for the Rainbow SDK for Node.JS",
   "main": "index.js",
@@ -14,6 +14,7 @@
     "circular-json": "^0.5.4",
     "cuid": "^2.1.0",
     "moment": "^2.20.1",
+    "rainbow-chatbot": "^1.40.0",
     "rainbow-node-sdk": "^1.40.1",
     "winston": "^2.4.0"
   },

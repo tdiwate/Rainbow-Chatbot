@@ -4,8 +4,8 @@
         "mode": "xmpp"
     },
     "credentials": {
-        "login": "<bot_loginEmail>",
-        "password": "<bot_password>"
+        "login": "test_user1@example.com",
+        "password": "Qwerty@123"
     },
     "logs": {
         "enableConsoleLogs": false,
